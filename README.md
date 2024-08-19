@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **C++, NLP and ML System design**
 
+- 👩‍💻 I'm currently searching for job as **Junior Computer Vision Engineer** ! Feel free to dm me if you are interested in my candidacy!
+
 - 👯 I’m looking to collaborate on **different pet-projects and hacks in CV and NLP**
 
 - 💬 How to reach me using telegram **https://t.me/sadevans**
