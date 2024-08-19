@@ -14,6 +14,8 @@
 - 📫 How to reach me using mail **a.s.gorokhova@yandex.ru**
 
 - ⚡ Fun fact **I am obsessed with fantasy books series**
+ 
+- 📄 Check my CV at **https://sadevans.github.io/my-cv/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
