@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandra</h1>
 <h3 align="center">A passionate computer vision engineer from Russia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadevans" alt="sadevans" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadevans&theme=onedark" alt="sadevans" /></a> </p>
 
 - 🔭 I’m currently working as Data Scientist at **SBER**
 
