@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as Data Scientist at **SBER**
 
-- 🌱 I’m currently learning **C++, NLP and ML System design**
+- 🌱 I’m currently learning **C++, NLP, DevOps+MLOps and ML System design**
 
 - 👩‍💻 I'm currently searching for job as **Junior Computer Vision Engineer** ! Feel free to dm me if you are interested in my candidacy!
 
