@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadevans&theme=onedark" alt="sadevans" /></a> </p>
 
-- 🔭 I’m currently working as Junior CV Researcher **Vision Labs**
+- 🔭 I’m currently working as Junior CV Researcher at **VisionLabs**
 
 - 🌱 I’m currently learning **C++, NLP, DevOps+MLOps and ML System design**
 
