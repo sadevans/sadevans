@@ -3,21 +3,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadevans&theme=onedark" alt="sadevans" /></a> </p>
 
-- 🔭 I’m currently working as Data Scientist at **SBER**
+- 🔭 I’m currently working as Junior CV Researcher **Vision Labs**
 
 - 🌱 I’m currently learning **C++, NLP, DevOps+MLOps and ML System design**
 
-- 👩‍💻 I'm currently searching for job as **Junior Computer Vision Engineer** ! Feel free to dm me if you are interested in my candidacy!
-
-- 👯 I’m looking to collaborate on **different pet-projects and hacks in CV and NLP**
+- 👯 I’m looking to collaborate on **different pet-projects and hacks in CV and NLP** !
 
 - 💬 How to reach me using telegram **https://t.me/sadevans**
 
 - 📫 How to reach me using mail **a.s.gorokhova@yandex.ru**
-
-- ⚡ Fun fact **I am obsessed with fantasy books series and with true crime stories**
  
 - 📄 Check my CV at **https://sadevans.github.io/my-cv/**
+  
+- ⚡ Fun fact **I am obsessed with fantasy books series and with true crime stories**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
